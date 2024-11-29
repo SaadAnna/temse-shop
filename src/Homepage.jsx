@@ -61,7 +61,7 @@ export default function Homepage() {
           Shop, shine, repeat.
         </p>
         <button className="text-white w-72 relative md:top-10 top-3  font-Text text-lg  bg-green-600  m-auto pl-4 pr-4 pt-2 pb-2 rounded-full hover:bg-green-700">
-          Sign up
+         Shop now
         </button>
       </div>
       <div
@@ -1273,7 +1273,7 @@ export default function Homepage() {
             className="flex gap-3"
           >
             <svg
-              className="w-7 h-7 text-black dark:text-white"
+              className="w-7 h-7 cursor-pointer text-black dark:text-white"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               width="24"
@@ -1289,7 +1289,7 @@ export default function Homepage() {
               />
             </svg>
             <svg
-              className="w-7 h-7 text-black dark:text-white"
+              className="w-7 h-7 cursor-pointer text-black dark:text-white"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               width="24"
@@ -1304,7 +1304,7 @@ export default function Homepage() {
               />
             </svg>
             <svg
-              className="w-7 h-7 text-black dark:text-white"
+              className="w-7 h-7 cursor-pointer text-black dark:text-white"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               width="24"

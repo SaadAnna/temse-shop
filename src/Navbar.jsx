@@ -28,8 +28,8 @@ export default function Navbar() {
           </div>
           <div className="hidden lg:flex items-center space-x-10 mr-52  mt-2">
             <a href="#" className="font-medium font-text text-black text-base hover:text-green-500">Home</a>
+            <a href="#" className="font-medium font-text text-black text-base hover:text-green-500">Shop</a>
             <a href="#" className="font-medium font-text text-black text-base hover:text-green-500">About</a>
-            <a href="#" className="font-medium font-text text-black text-base hover:text-green-500">Services</a>
             <a href="#" className="font-medium font-text text-black text-base hover:text-green-500">Contact</a>
           </div>
           <div className="hidden lg:block">
@@ -67,8 +67,8 @@ export default function Navbar() {
           </div>
           <div className="flex flex-col p-4  items-start text-start flex-grow">
             <a href="#" className="py-4 text-center font-meduim font-text text-black text-lg hover:text-green-500 transition-colors duration-200">Home</a>
+            <a href="#" className="py-4 text-center font-meduim font-text text-black text-lg hover:text-green-500 transition-colors duration-200">Shop</a>
             <a href="#" className="py-4 text-center font-meduim font-text text-black text-lg hover:text-green-500 transition-colors duration-200">About</a>
-            <a href="#" className="py-4 text-center font-meduim font-text text-black text-lg hover:text-green-500 transition-colors duration-200">Services</a>
             <a href="#" className="py-4 text-center font-meduim font-text text-black text-lg hover:text-green-500 transition-colors duration-200">Contact</a>
           </div>
           <div className="p-4 border-t">
